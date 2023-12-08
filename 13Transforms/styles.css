@@ -1,0 +1,27 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: beige;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    transition: all 0.5s linear 0s;
+}
+.box:hover{
+    /* transform: rotate(12deg) scale(1.4) skew(23deg); */
+     /* scale: 1.03; */
+    /* transform: scale(1.4); */
+    transform: translate(0,-500px);/* x and y direction */
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 36px;
+}

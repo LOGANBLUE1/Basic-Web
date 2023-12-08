@@ -1,0 +1,30 @@
+<b> for bold,<i> for italic,<u> for underline
+<br> for break line,<hr> for horizontal line
+Text tags - <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>,
+ <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var>
+HTML Link Tags - <a> and <base>
+HTML Image and Object Tags - <img>, <area>, <map>, <param> and <object>
+HTML List Tags - <ul>, <ol>, <li>, <dl>, <dt> and <dd>
+HTML Table Tags - table, tr, td, th, tbody, thead, tfoot, col, colgroup and caption
+HTML Form Tags - form, input, textarea, select, option, optgroup, button, label, fieldset and legend
+HTML Scripting Tags - script and noscript
+<em> works as <i> for displaying content in italic
+<mark> is for highlighting the text
+<strong> is logical tag for works as <b> for enlarging the text
+<sup> and <sub> for shifting text just above and below
+<del> displays the deleted content and <ins> content which is added
+<big> and <small> for increasing and decreasing the text by one unit
+
+The HTML <form> element can contain one or more of the following form elements:
+  <input>
+    <label>
+    <select>
+    <textarea>
+    <button>
+    <fieldset>
+    <legend>
+    <datalist>
+    <output>
+    <option>
+    <optgroup>
+Shorthand property
